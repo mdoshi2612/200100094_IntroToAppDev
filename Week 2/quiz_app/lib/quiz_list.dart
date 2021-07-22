@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'question.dart';
 class QuizList{
   int _questionNumber = 0;
